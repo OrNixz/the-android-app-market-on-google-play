@@ -6,7 +6,7 @@ Time flies, and now we're already entering our third project provided by DataCam
 
 In relation to this project, we are being encouraged to analyze and visualize several problems, i.e., Which category has the highest share of (active) apps in the market? Visualize the app ratings and plot them on a histogram. Does the price of an app affect its rating? Do users always prefer free apps over paid apps? What is the relationship between app category and app price? Does free apps become more popular than paid apps? And finally, how does sentiment analysis compare paid vs. free apps?
 
-***note: Due to plot.ly visualization can't be offline mode so please look at the html file to see the visualization, thank you.**
+**Note: Due to plot.ly visualization can't be offline mode so please look at the html file to see the visualization, thank you.**
 
 
 ## Project Description
